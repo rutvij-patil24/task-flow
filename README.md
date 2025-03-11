@@ -17,7 +17,6 @@ TaskFlow is a powerful and efficient **task management system** built with **Jav
 - **Database**: MySQL
 - **Authentication**: JWT (JSON Web Token)
 - **Build Tool**: Maven
-- **Deployment**: Docker (optional)
 - **Version Control**: Git & GitHub
 
 ## 🏗️ Clone the Repository
