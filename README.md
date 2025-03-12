@@ -22,5 +22,5 @@ TaskFlow is a powerful and efficient **task management system** built with **Jav
 ## 🏗️ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/taskflow.git
-cd taskflow
+git clone https://github.com/rutvij-patil24/task-flow.git
+cd task-flow
